@@ -1,0 +1,156 @@
+{
+  "videos": [
+    {
+      "artist": "Nobody Jones",
+      "title": "Live Free or Try",
+      "bandcampTrack": "4177336856",
+      "art": "https://f4.bcbits.com/img/a1084199021_16.jpg",
+      "duration": 172,
+      "href": "https://nobodyjones.bandcamp.com/track/live-free-or-try",
+      "instagram": "https://www.instagram.com/whoisnobodyjones/"
+    },
+    {
+      "artist": "Emily's Prism Dream",
+      "title": "Monsters",
+      "bandcampTrack": "3256824457",
+      "art": "https://f4.bcbits.com/img/a2529285721_16.jpg",
+      "duration": 231,
+      "href": "https://emilymakingmusic.bandcamp.com/album/monsters"
+    },
+    {
+      "artist": "milkspiller",
+      "title": "Wage Theft",
+      "bandcampTrack": "1522703122",
+      "art": "https://f4.bcbits.com/img/a3092602362_16.jpg",
+      "duration": 178,
+      "href": "https://milkspiller.bandcamp.com/album/preserver",
+      "instagram": "https://www.instagram.com/_milkspiller_/"
+    },
+    {
+      "artist": "Glitterspitter",
+      "title": "Heavenly Host",
+      "bandcampTrack": "3920697142",
+      "art": "https://f4.bcbits.com/img/a0027468468_16.jpg",
+      "duration": 265,
+      "href": "https://glitterspitter.bandcamp.com/album/you-dont-know-the-dark"
+    },
+    {
+      "artist": "Sherrie",
+      "title": "Same",
+      "bandcampTrack": "3735832776",
+      "art": "https://f4.bcbits.com/img/a0641068036_16.jpg",
+      "duration": 254,
+      "href": "https://sherrie.bandcamp.com/"
+    },
+    {
+      "artist": "Paper Bee",
+      "title": "Tuscon",
+      "bandcampTrack": "1161643661",
+      "art": "https://f4.bcbits.com/img/a2667722211_16.jpg",
+      "duration": 152,
+      "href": "https://paper-bee.bandcamp.com/album/thaw-freeze-thaw"
+    },
+    {
+      "artist": "The Angies",
+      "title": "Bloodhound",
+      "bandcampTrack": "4040021862",
+      "art": "https://f4.bcbits.com/img/a2428593907_16.jpg",
+      "duration": 221,
+      "href": "https://theangies.bandcamp.com/album/bloodhound-full-time-sex-machine",
+      "instagram": "https://www.instagram.com/deathtotheangies/"
+    },
+    {
+      "artist": "Caring Less",
+      "title": "Chaser",
+      "bandcampTrack": "1205984723",
+      "art": "https://f4.bcbits.com/img/a0730881902_16.jpg",
+      "duration": 252,
+      "href": "https://caringless.bandcamp.com/album/caring-less"
+    },
+    {
+      "artist": "Sunglass",
+      "title": "Most Days",
+      "bandcampTrack": "3187383232",
+      "art": "https://f4.bcbits.com/img/a2871448388_16.jpg",
+      "duration": 258,
+      "href": "https://sunglass.bandcamp.com/"
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-08-14",
+      "bill": "Born At Midnite, PAYCHEQUE",
+      "venue": "Johnny Brenda's"
+    },
+    {
+      "date": "2026-08-14",
+      "bill": "Flowerbomb, Hyber, Caring Less, Mars Counsel",
+      "venue": "Ortlieb's"
+    },
+    {
+      "date": "2026-08-14",
+      "bill": "Snacktime",
+      "venue": "Spruce Street Harbor Park"
+    },
+    {
+      "date": "2026-08-15",
+      "bill": "Zeke Sky, Breakker, Skullovich, Astrokatz",
+      "venue": "Johnny Brenda's"
+    },
+    {
+      "date": "2026-08-15",
+      "bill": "Yard Act, The Armed",
+      "venue": "Underground Arts"
+    },
+    {
+      "date": "2026-08-17",
+      "bill": "Scout Gillett, Jackie West, Soup Dreams",
+      "venue": "Abyssinia"
+    },
+    {
+      "date": "2026-08-21",
+      "bill": "Kiwi Jr., 2nd Grade, Log Flume",
+      "venue": "Johnny Brenda's"
+    },
+    {
+      "date": "2026-08-21",
+      "bill": "Vundabar, Paper Bee, Beauty",
+      "venue": "Spruce Street Harbor Park"
+    },
+    {
+      "date": "2026-08-19",
+      "bill": "Glitterspitter, Sherrie, Emily’s Prism Dream",
+      "venue": "Johnny Brenda's"
+    },
+    {
+      "date": "2026-08-23",
+      "bill": "Faetooth, Latter, Bosses",
+      "venue": "Underground Arts"
+    },
+    {
+      "date": "2026-08-26",
+      "bill": "Elephant Jake, Key Found, The Breaks",
+      "venue": "Johnny Brenda's"
+    },
+    {
+      "date": "2026-08-27",
+      "bill": "Moonroof, Rohna, Terra Flora",
+      "venue": "PhilaMOCA"
+    },
+    {
+      "date": "2026-08-27",
+      "bill": "Pinkshift, Kulfi Girls",
+      "venue": "Philly (see listings)"
+    },
+    {
+      "date": "2026-08-29",
+      "bill": "Citizen, Anxious",
+      "venue": "Union Transfer"
+    },
+    {
+      "date": "2026-08-30",
+      "bill": "Froggy, Pleasure Death, The Angies",
+      "venue": "Johnny Brenda's"
+    }
+  ]
+}

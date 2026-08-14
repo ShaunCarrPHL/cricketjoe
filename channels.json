@@ -1,0 +1,123 @@
+{
+  "channels": [
+    {
+      "ch": 1,
+      "net": "GUIDE",
+      "long": "Channel Guide",
+      "kind": "guide",
+      "now": "What's on"
+    },
+    {
+      "ch": 2,
+      "net": "RADIO",
+      "long": "MUD Radio",
+      "kind": "album",
+      "title": "MUD EP",
+      "now": "MUD EP — full play",
+      "bandcampAlbum": "224239072",
+      "href": "https://cricketjoe.bandcamp.com/album/mud-ep"
+    },
+    {
+      "ch": 3,
+      "net": "GRAVE",
+      "long": "Grave Robber",
+      "kind": "track",
+      "title": "Grave Robber",
+      "now": "Grave Robber",
+      "duration": "4:53",
+      "bandcampTrack": "2576409118",
+      "href": "https://cricketjoe.bandcamp.com/track/grave-robber-3"
+    },
+    {
+      "ch": 4,
+      "net": "MUD",
+      "long": "MUD",
+      "kind": "track",
+      "title": "MUD",
+      "now": "MUD",
+      "duration": "4:21",
+      "bandcampTrack": "4102512448",
+      "href": "https://cricketjoe.bandcamp.com/track/mud-2"
+    },
+    {
+      "ch": 5,
+      "net": "REPEAT",
+      "long": "Everything Repeats Itself",
+      "kind": "track",
+      "title": "Everything Repeats Itself",
+      "now": "Everything Repeats Itself",
+      "duration": "3:08",
+      "bandcampTrack": "1898508506",
+      "href": "https://cricketjoe.bandcamp.com/track/everything-repeats-itself-2"
+    },
+    {
+      "ch": 6,
+      "net": "MOON",
+      "long": "Blood Moon",
+      "kind": "track",
+      "title": "Blood Moon",
+      "now": "Blood Moon",
+      "duration": "2:51",
+      "bandcampTrack": "2513471951",
+      "href": "https://cricketjoe.bandcamp.com/track/blood-moon-2"
+    },
+    {
+      "ch": 7,
+      "net": "CLEAN",
+      "long": "Came Clean",
+      "kind": "track",
+      "title": "Came Clean",
+      "now": "Came Clean",
+      "duration": "1:37",
+      "bandcampTrack": "1515543214",
+      "href": "https://cricketjoe.bandcamp.com/track/came-clean-2"
+    },
+    {
+      "ch": 8,
+      "net": "GHOST",
+      "long": "Can I Be Your Ghost?",
+      "kind": "track",
+      "title": "Can I Be Your Ghost?",
+      "now": "Can I Be Your Ghost?",
+      "duration": "4:24",
+      "bandcampTrack": "3417052117",
+      "href": "https://cricketjoe.bandcamp.com/track/can-i-be-your-ghost-3"
+    },
+    {
+      "ch": 9,
+      "net": "CJTV",
+      "long": "Video Hour",
+      "kind": "video",
+      "now": "Please stand by",
+      "videos": []
+    },
+    {
+      "ch": 10,
+      "net": "SHOWS",
+      "long": "On The Books",
+      "kind": "shows",
+      "now": "Live dates"
+    },
+    {
+      "ch": 11,
+      "net": "ID",
+      "long": "Station Identification",
+      "kind": "about",
+      "now": "Cricket Joe · Philadelphia"
+    },
+    {
+      "ch": 12,
+      "net": "MAIL",
+      "long": "Viewer Mail",
+      "kind": "mail",
+      "now": "Booking & hello"
+    },
+    {
+      "ch": 13,
+      "net": "PHILLY",
+      "long": "Local Cable",
+      "kind": "philly",
+      "now": "House-show hour"
+    }
+  ]
+}

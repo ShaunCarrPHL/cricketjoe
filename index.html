@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>Cricket Joe — Philadelphia</title>
+    <meta
+      name="description"
+      content="Cricket Joe cable: switch channels to play songs and videos. Philadelphia songwriter. MUD EP out now."
+    />
+    <link rel="canonical" href="https://cricketjoe.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Cricket Joe" />
+    <meta property="og:title" content="Cricket Joe — Philadelphia" />
+    <meta
+      property="og:description"
+      content="Tune the dial. Songs and videos on cricketjoe.com."
+    />
+    <meta property="og:url" content="https://cricketjoe.com/" />
+    <meta property="og:image" content="https://cricketjoe.com/assets/mud.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;600&family=Outfit:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <p class="skip"><a href="#screen">Skip to TV</a></p>
+
+    <div class="room">
+      <div class="room-stage">
+        <div class="screen" id="screen">
+          <div class="picture" id="picture"></div>
+          <canvas class="tune-static" id="static" width="160" height="90" hidden></canvas>
+          <div class="station-slate" id="slate" hidden>
+            <div class="station-slate-ch" id="slate-ch"></div>
+            <div class="station-slate-net" id="slate-net"></div>
+            <div class="station-slate-long" id="slate-long"></div>
+          </div>
+          <div class="channel-bug" id="bug" hidden>
+            <div class="channel-bug-ch" id="bug-ch">02</div>
+            <div class="channel-bug-net" id="bug-net">RADIO</div>
+          </div>
+          <div class="info-banner" id="banner" hidden>
+            <div class="info-banner-ch" id="banner-ch">02</div>
+            <div class="info-banner-body">
+              <div class="info-banner-net" id="banner-net">RADIO</div>
+              <div class="info-banner-title" id="banner-title">MUD EP</div>
+              <div class="info-banner-next" id="banner-next"></div>
+            </div>
+            <div class="info-banner-meta" id="banner-meta">LIVE</div>
+          </div>
+          <div class="crt-scanlines" aria-hidden="true"></div>
+          <div class="crt-vignette" aria-hidden="true"></div>
+        </div>
+
+        <img
+          class="room-plate"
+          src="assets/shack.png?v=2"
+          width="1536"
+          height="1024"
+          alt=""
+        />
+
+        <div class="desk-remote" role="group" aria-label="TV remote">
+          <button type="button" class="crt-btn" data-act="down" aria-label="Channel down">CH −</button>
+          <button type="button" class="crt-btn" data-act="up" aria-label="Channel up">CH +</button>
+          <button type="button" class="crt-btn" data-act="prev" aria-label="Previous clip">PREV</button>
+          <button type="button" class="crt-btn" data-act="next" aria-label="Next clip">NEXT</button>
+          <button type="button" class="crt-btn" data-act="last" aria-label="Last channel">LAST</button>
+          <button type="button" class="crt-btn" data-act="guide">GUIDE</button>
+          <button type="button" class="crt-btn" data-act="info">INFO</button>
+        </div>
+      </div>
+      <p class="room-hint">↑↓ channels · ← → next clip · 0–9 tune · L last · I info</p>
+    </div>
+
+    <script src="site.js"></script>
+  </body>
+</html>
